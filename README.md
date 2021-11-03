@@ -1,0 +1,2 @@
+# ScannerFuction
+ FuncaoScanner
